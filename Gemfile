@@ -33,4 +33,5 @@ gem "gchartrb"
 #   gem 'webrat'
 # end
 
+gem 'letstotallybreakthis'
 
